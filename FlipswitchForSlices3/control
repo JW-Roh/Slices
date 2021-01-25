@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchforslices3
+Depends: firmware (>=11), mobilesubstrate, com.a3tweaks.flipswitch, com.rpgfarm.slices3
+Name: Flipswitch For Slices 3
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Slices 3 tweak
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
